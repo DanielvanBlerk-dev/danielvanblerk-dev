@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**DanielvanBlerk-dev/danielvanblerk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Android & front-end developer based in Australia.
 
-Here are some ideas to get you started:
+🌐 Portfolio: [dkvb.dev](https://dkvb.dev)  
+📧 Contact: vanblerkdaniel@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- 📱 Android app development (Kotlin, Firebase)
+- 🌐 Front-end web development (React, Next.js)
+- 🎨 UI/UX design (Figma, Material You)
+- 🔌 Back-end development (Firebase, Node.js, REST APIs)
+
+## Current projects
+- 🤝 **Skills United** — peer skill-exchange Android app (in development)
+- 🖼️ **Airlie Beach Art** — full-stack original art shop → [airliebeachart.com](https://airliebeachart.com)
