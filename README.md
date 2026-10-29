@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-Freelance Android & front-end developer based in Australia.
+Freelance Android & full-stack developer based in Queensland, Australia.
 
 🌐 Portfolio: [dkvb.dev](https://dkvb.dev)  
 📧 Contact: vanblerkdaniel@gmail.com  
