@@ -12,5 +12,5 @@ Freelance Android & full-stack developer based in Queensland, Australia.
 - 🔌 Back-end development (Firebase, Node.js, REST APIs)
 
 ## Current projects
-- 🤝 **Skills United** — peer skill-exchange Android app (in development)
+- 🤝 **Skills United** — peer skill-exchange Android app.
 - 🖼️ **Airlie Beach Art** — full-stack original art shop → [airliebeachart.com](https://airliebeachart.com)
